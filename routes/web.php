@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
-| Web Routes-112233
+| Web Routes-11
 |--------------------------------------------------------------------------
 |
 | Here is where you can register web routes for your application. These
